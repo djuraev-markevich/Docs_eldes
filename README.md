@@ -1,2 +1,4 @@
-# Docs_eldes
+﻿# Docs_eldes
 Доки по умному дому в шуе
+
+Start 03.11.2022
